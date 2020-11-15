@@ -294,6 +294,7 @@ lib/widget/editbox.cpp
 lib/widget/form.cpp
 lib/widget/label.cpp
 lib/widget/listwidget.cpp
+lib/widget/paragraph.cpp
 lib/widget/scrollablelist.cpp
 lib/widget/scrollbar.cpp
 lib/widget/slider.cpp
@@ -314,6 +315,7 @@ src/aud.cpp
 src/baseobject.cpp
 src/bucket3d.cpp
 src/challenge.cpp
+src/chat.cpp
 src/cheat.cpp
 src/clparse.cpp
 src/cmddroid.cpp
@@ -372,6 +374,7 @@ src/multiplay.cpp
 src/multistat.cpp
 src/multistruct.cpp
 src/multisync.cpp
+src/musicmanager.cpp
 src/nethelpers.cpp
 src/notifications.cpp
 src/objects.cpp
@@ -384,6 +387,7 @@ src/projectile.cpp
 src/qtscript.cpp
 src/qtscriptdebug.cpp
 src/qtscriptfuncs.cpp
+src/quickjs_backend.cpp
 src/radar.cpp
 src/random.cpp
 src/raycast.cpp
@@ -413,4 +417,6 @@ src/warcam.cpp
 src/warzoneconfig.cpp
 src/wavecast.cpp
 src/wrappers.cpp
+src/wzapi.cpp
 src/wzpropertyproviders.cpp
+src/wztime.cpp
